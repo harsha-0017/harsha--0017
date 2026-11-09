@@ -4,7 +4,7 @@
   <p><b>Information Science & Engineering · Don Bosco Institute of Technology</b></p>
   <p>📍 Bengaluru, Karnataka, India</p>
   <br/>
-  <a href="https://github.com/harsha--0017"><img src="https://img.shields.io/badge/GitHub-harsha____0017-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/harsha--0017"><img src="https://img.shields.io/badge/GitHub-harsha-0017-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="mailto:hemanth.harsha2601@gmail.com"><img src="https://img.shields.io/badge/Email-hemanth.harsha2601%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/harshavardhan-a-4825722b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <br/><br/>
