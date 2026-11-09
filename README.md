@@ -104,10 +104,12 @@ Includes practical micro-apps such as weather integrations via external REST API
 | **B.E. Enrolment** | Information Science & Engineering, DBIT Bengaluru (VTU) — Batch 2025–2029 |
 | **GitHub Presence** | Active open-source profile at [`github.com/harsha--0017`](https://github.com/harsha--0017) |
 | **Curriculum Focus** | Dedicated frontend and web development skill path |
-| **Multilingual** |  English; native fluency in Kannada |
+| **Multilingual** | Professional proficiency in English; native fluency in Kannada |
 
 ---
 
+
+---
 
 ## 〈 Current Focus 〉
 
@@ -117,13 +119,23 @@ learning:
   - Modern JavaScript async patterns and ES features
   - Tailwind CSS advanced layout composition
   - Web accessibility standards (WCAG 2.1 AA)
+ - Python for Data Science & AI (NumPy, pandas, Matplotlib, random)
+  - Machine Learning & Deep Learning foundations (scikit-learn, PyTorch)
+  - AI architectures: Transformers, autonomous agents, and RAG pipelines
+  - Frontend engineering with React, custom hooks, and Tailwind CSS
 
 building:
   - Responsive personal portfolio and showcase projects
   - Reusable React UI component library
   - Frontend micro-apps and API integration demos
+ - Data manipulation and model training scripts in Python
+  - AI-integrated web applications using Flask and modern frontend stacks
+  - Interactive portfolio and UI components for production deployments
 
 exploring:
   - TypeScript fundamentals and strong typing in React
   - Next.js and full-stack fundamentals
   - UI/UX workflows in Figma
+ - End-to-end ML workflows: data preprocessing to inference APIs
+  - Neural network architectures and fine-tuning with PyTorch
+  - Full-stack AI integration with Next.js and vector databases
