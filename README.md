@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=200&section=header&text=Harshavardhan&fontSize=60" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=200&section=header&text=Harshavardhan A&fontSize=60" width="100%" alt="Header" />
   <br/>
   <p><b>B.E. Information Science & Engineering · Don Bosco Institute of Technology</b></p>
   <p>📍 Bengaluru, Karnataka, India</p>
