@@ -12,7 +12,7 @@
 
 ## 〈 About Me 〉
 
-- **Name:** Harshavardhan A
+- **Name:** Harshavardhan A 001
 - **Role:** Web Developer · Python & AI / Machine Learning Enthusiast
 - **University:** Don Bosco Institute of Technology, Bengaluru (VTU)
 - **Degree:** B.E. Information Science & Engineering
