@@ -104,24 +104,10 @@ Includes practical micro-apps such as weather integrations via external REST API
 | **B.E. Enrolment** | Information Science & Engineering, DBIT Bengaluru (VTU) — Batch 2025–2029 |
 | **GitHub Presence** | Active open-source profile at [`github.com/harsha--0017`](https://github.com/harsha--0017) |
 | **Curriculum Focus** | Dedicated frontend and web development skill path |
-| **Multilingual** | Professional proficiency in English; native fluency in Kannada |
+| **Multilingual** |  English; native fluency in Kannada |
 
 ---
 
-### 〈 GitHub Analytics 〉
-
-<div align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha--0017&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=8B5CF6&text_color=E5E7EB" width="49%" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha--0017&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=8B5CF6&fire=A78BFA" width="49%" alt="GitHub Streak" />
-  <br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha--0017&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&text_color=E5E7EB" width="45%" alt="Top Languages" />
-</div>
----
 
 ## 〈 Current Focus 〉
 
